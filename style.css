@@ -1,0 +1,16 @@
+a{
+    color: black;
+    text-decoration-line: overline underline;
+    text-transform: none;
+    text-shadow: -5px -4px 2px blue;
+    font-family: monospace;
+    
+    
+}
+p{
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 1.5;
+    white-space:  pre-wrap;
+    font-family: cursive;
+}
